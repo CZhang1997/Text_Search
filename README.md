@@ -13,3 +13,5 @@ Example of using two threads. One thread read, process text and add target line 
 
 # Version 3
 Example of using one extra thread, other than the main thread. The thread will read and process each line of text and add to UI. Final Version also contains a progess bar, and copy line of text from UI.
+
+![](./example.PNG)
