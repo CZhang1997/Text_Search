@@ -1,0 +1,27 @@
+C:\Users\churo\source\repos\Multithreaded Text Search\bin\Release\Multithreaded Text Search.exe.config
+C:\Users\churo\source\repos\Multithreaded Text Search\bin\Release\Multithreaded Text Search.exe
+C:\Users\churo\source\repos\Multithreaded Text Search\bin\Release\Multithreaded Text Search.pdb
+C:\Users\churo\source\repos\Multithreaded Text Search\obj\Release\Multithreaded Text Search.csprojAssemblyReference.cache
+C:\Users\churo\source\repos\Multithreaded Text Search\obj\Release\Multithreaded_Text_Search.Form1.resources
+C:\Users\churo\source\repos\Multithreaded Text Search\obj\Release\Multithreaded_Text_Search.Properties.Resources.resources
+C:\Users\churo\source\repos\Multithreaded Text Search\obj\Release\Multithreaded Text Search.csproj.GenerateResource.cache
+C:\Users\churo\source\repos\Multithreaded Text Search\obj\Release\Multithreaded Text Search.exe
+C:\Users\churo\source\repos\Multithreaded Text Search\obj\Release\Multithreaded Text Search.pdb
+C:\Users\churo\source\repos\cxz173430Asg4\obj\Release\Multithreaded Text Search.csprojAssemblyReference.cache
+C:\Users\churo\source\repos\cxz173430Asg4\obj\Release\Multithreaded_Text_Search.Form1.resources
+C:\Users\churo\source\repos\cxz173430Asg4\obj\Release\Multithreaded_Text_Search.Properties.Resources.resources
+C:\Users\churo\source\repos\cxz173430Asg4\obj\Release\Multithreaded Text Search.csproj.GenerateResource.cache
+C:\Users\churo\source\repos\cxz173430Asg4\obj\Release\Multithreaded Text Search.exe
+C:\Users\churo\source\repos\cxz173430Asg4\obj\Release\Multithreaded Text Search.pdb
+C:\Users\churo\source\repos\cxz173430Asg4\bin\Release\Multithreaded Text Search.exe.config
+C:\Users\churo\source\repos\cxz173430Asg4\bin\Release\Multithreaded Text Search.exe
+C:\Users\churo\source\repos\cxz173430Asg4\bin\Release\Multithreaded Text Search.pdb
+C:\Users\churo\source\repos\Multithreaded Text Search v3\bin\Release\Multithreaded Text Search.exe.config
+C:\Users\churo\source\repos\Multithreaded Text Search v3\bin\Release\Multithreaded Text Search.exe
+C:\Users\churo\source\repos\Multithreaded Text Search v3\bin\Release\Multithreaded Text Search.pdb
+C:\Users\churo\source\repos\Multithreaded Text Search v3\obj\Release\Multithreaded Text Search.csprojAssemblyReference.cache
+C:\Users\churo\source\repos\Multithreaded Text Search v3\obj\Release\Multithreaded_Text_Search.Form1.resources
+C:\Users\churo\source\repos\Multithreaded Text Search v3\obj\Release\Multithreaded_Text_Search.Properties.Resources.resources
+C:\Users\churo\source\repos\Multithreaded Text Search v3\obj\Release\Multithreaded Text Search.csproj.GenerateResource.cache
+C:\Users\churo\source\repos\Multithreaded Text Search v3\obj\Release\Multithreaded Text Search.exe
+C:\Users\churo\source\repos\Multithreaded Text Search v3\obj\Release\Multithreaded Text Search.pdb
